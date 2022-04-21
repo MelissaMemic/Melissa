@@ -4,7 +4,6 @@
 
 - 🌱 I’m a software engineering student at Faculty of Information technologies
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 
 - ⚡ Fun fact: I would like to do my OWN NFT collection 
 
 ### Connect with me:
