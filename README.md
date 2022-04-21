@@ -1,6 +1,6 @@
 # Heyy this is Melly's GitHub 👋 
 
-## I'm a student, pianist and activist. Also I do programming too..
+## I'm a student, pianist and activist. Well I do programming too..
 
 - 🌱 I’m a software engineering student at Faculty of Information technologies
 - 👯 I’m looking to collaborate with other content creators
